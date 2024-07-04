@@ -51,11 +51,11 @@ To get started with this project, you'll need:
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/SpectraGuard/SpectraGuard-Unity.git
     ```
 2. Install the required dependencies:
     ```sh
-    cd your-repository
+    cd SpectraGuard-Unity
     # command to install dependencies
     ```
 
