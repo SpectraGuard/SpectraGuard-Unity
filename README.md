@@ -30,8 +30,7 @@ The ARWorldMapController.cs performs most of the logic in this project.
 # Point Clouds
 This shows just the current frame's feature points with the "AR Default Point Cloud" prefab.
 
-#Plane Detection 
-
+# Plane Detection 
 This project shows how to toggle plane detection on and off. When off, it will also hide all previously detected planes by disabling their GameObjects. See PlaneDetectionController.cs.
 
 ## Dependencies
