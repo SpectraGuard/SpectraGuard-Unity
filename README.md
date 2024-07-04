@@ -21,16 +21,16 @@ An AR app for iOS built with AR Foundation Scripting API, featuring plane detect
 - **Debug Menu:** Provides a debug menu for testing and development purposes.
 - **World Map:** Saves the current state of the app locally and loads it back.
 
-# ARWorldMap
+### ARWorldMap
 This requires iOS 12 or above.
 An ARWorldMap is an ARKit-specific feature which lets you save a scanned area. ARKit can optionally relocalize to a saved world map at a later time. This can be used to synchronize multiple devices to a common space, or for curated experiences specific to a location, such as a museum exhibition or other special installation. A world map will store most types of trackables, such as reference points and planes.
 
 The ARWorldMapController.cs performs most of the logic in this project.
 
-# Point Clouds
+### Point Clouds
 This shows just the current frame's feature points with the "AR Default Point Cloud" prefab.
 
-# Plane Detection 
+### Plane Detection 
 This project shows how to toggle plane detection on and off. When off, it will also hide all previously detected planes by disabling their GameObjects. See PlaneDetectionController.cs.
 
 ## Dependencies
