@@ -37,6 +37,7 @@ This project shows how to toggle plane detection on and off. When off, it will a
 This project primarily relies on the following packages and technologies:
 - AR Foundation
 - ARKit XR Plug-in
+- Google ARCore XR Plug-in on Android
 - Unity
 
 ### Prerequisites
