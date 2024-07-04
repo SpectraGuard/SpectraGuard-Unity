@@ -85,5 +85,10 @@ We welcome contributions to improve and expand this project. To contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 If you have any questions or encounter any issues, please open an issue in this repository or contact us.
+## Contributions
+This project was developed by:
+- [Ghufran Barakat](https://github.com/GhufranBarakat)
+- [Osman Marangoz](https://github.com/OsmanMarangoz)
+- Rouven Bleich
 
 Happy coding!
