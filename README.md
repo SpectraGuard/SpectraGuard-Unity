@@ -42,7 +42,7 @@ This project primarily relies on the following packages and technologies:
 ### Prerequisites
 The main branch of this repository uses AR Foundation 6.0 and is compatible with Unity 2023.2 and newer. 
 To get started with this project, you'll need:
-- [Unity 6 (6000.0) 	6.0 (main)]
+- Unity 6 (6000.0) 	6.0 (main)
 - [Unity 2023.2 or later](https://unity.com/)
 - [ARKit XR Plug-in](https://developer.apple.com/arkit/)
 - An iOS device with ARKit support
