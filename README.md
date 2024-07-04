@@ -67,7 +67,7 @@ We welcome contributions to improve and expand this project. To contribute:
 4. Submit a pull request with a detailed description of your changes.
 
 ## License
-This project is licensed under an "All Rights Reserved" statement. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 If you have any questions or encounter any issues, please open an issue in this repository or contact us.
 
