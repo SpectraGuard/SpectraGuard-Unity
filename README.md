@@ -2,6 +2,7 @@
 
 An AR app for iOS built with AR Foundation Scripting API, featuring plane detection with object placement, point clouds, basic UI, a debug menu, and a world map to save and load the current state of the app locally.
 
+This project was developed as part of a university course.
 
 ## Table of Contents
 - [Features](#features)
