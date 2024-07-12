@@ -5,7 +5,7 @@ using UnityEngine.XR.ARFoundation;
 using UnityEngine.XR.ARSubsystems;
 
 /// <summary>
-/// For tutorial video, see my YouTube channel: <seealso href="https://www.youtube.com/@xiennastudio">YouTube channel</seealso>
+/// For tutorial video, see YouTube channel: <seealso href="https://www.youtube.com/@xiennastudio">YouTube channel</seealso>
 /// How to use this script:
 /// - Add ARPlaneManager to XROrigin GameObject.
 /// - Add ARRaycastManager to XROrigin GameObject.

@@ -17,9 +17,7 @@ MonoBehaviour:
   m_ModuleName: iOS
   m_PlatformBuildProfile:
     rid: 4587904764362883279
-  m_Scenes:
-  - m_enabled: 1
-    m_path: Assets/Scenes/SampleScene.unity
+  m_Scenes: []
   references:
     version: 2
     RefIds:
