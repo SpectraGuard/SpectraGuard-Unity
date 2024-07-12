@@ -1,8 +1,8 @@
 # SpectraGuard
 
-An AR app for iOS built with AR Foundation Scripting API, featuring plane detection with object placement, point clouds, basic UI, a debug menu, and a world map to save and load the current state of the app locally.
+This is an AR app for iOS, developed using the AR Foundation Scripting API. It incorporates features from both ARCore and ARKit. The app includes plane detection with object placement, AR session reset, feature point recognition with point cloud visualization, a basic user interface, a debug menu, and a world map function to locally save and load the current state of the app.
 
-This project was developed as part of a university course.
+This project was developed as part of a university course in cooperation with CGI IT and Business Consulting Services.
 
 ## Table of Contents
 - [Features](#features)
